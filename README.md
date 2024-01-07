@@ -1,4 +1,4 @@
-👋 Bienvenido/a a mi proyecto final de Data Analitycs que realice en Coderhouse
+👋 Bienvenido/a mi trabajo en PowerBI.
 
 🚲 Este proyecto de Data Analitycs se centra Divulgar información básica, aspectos clave, brindar ejemplos claros desglosando información que a priori puede ser difícil de procesar, y facilitar la comprensión del mundo de las 
 criptomonedas. 🚲
